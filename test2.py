@@ -1,0 +1,1 @@
+'ABC'.join(['Dicoding', '', 'Indonesia'])
