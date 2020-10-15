@@ -1,1 +1,1 @@
-'ABC'.join(['Dicoding', '', 'Indonesia'])
+print('ABC'.join(['Dicoding', '', 'Indonesia']))
